@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+}
+p{
+    color: white;
+}
+dl{
+    color: white;
+}
+body {
+    background-image: url('Contenidos-digitales.jpg'); 
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+body{
+    background-image: url('cms (1).jpg'); 
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+}
